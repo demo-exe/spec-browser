@@ -11,7 +11,7 @@ This is my opinionated 3GPP spec opener-thingy.
 ## Requirements
 
 ```bash
-yay -S python dmenu python-dmenu python-notify2 libreoffice-fresh zathura zathura-pdf-mupdf
+yay -S python dmenu python-dmenu python-notify2 libreoffice-fresh zathura zathura-pdf-mupdf python-dateutil
 ```
 
 - dmenu is my menu select of choice
